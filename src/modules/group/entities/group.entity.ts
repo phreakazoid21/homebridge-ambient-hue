@@ -50,7 +50,7 @@ export class Group {
       prev.ctControlled = prev.ctControlled && current.ctControlled;
       prev.smartoffActive = prev.smartoffActive || current.smartoffActive;
       return prev;
-    });
+    }, new Light());
     this.on = reducedLight.on;
     this.onControlled = reducedLight.onControlled;
     this.ctControlled = reducedLight.ctControlled;
