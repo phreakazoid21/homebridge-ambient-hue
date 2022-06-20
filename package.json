@@ -6,10 +6,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/LukasPatzke/homebridge-ambient-hue.git"
+    "url": "git://github.com/phreakazoid21/homebridge-ambient-hue.git"
   },
   "bugs": {
-    "url": "https://github.com/LukasPatzke/homebridge-ambient-hue/issues"
+    "url": "https://github.com/phreakazoid21/homebridge-ambient-hue/issues"
   },
   "engines": {
     "node": ">=14.0.0",
