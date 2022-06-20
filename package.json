@@ -1,5 +1,5 @@
 {
-  "displayName": "Homebridge Ambient Hue",
+  "displayName": "My Ambient Hue",
   "name": "homebridge-ambient-hue",
   "version": "0.0.7",
   "description": "Dynamically adjusts your Philips Hue lights throughout the day.",
